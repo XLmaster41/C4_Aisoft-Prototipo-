@@ -140,3 +140,4 @@ Veja [`docs/imagens/`](docs/imagens/) (arquitetura, circuito, wireframes, diagra
 - [Metodologia e backlog](docs/metodologia.md)
 - [Matriz de decisões técnicas](docs/decisoes-tecnicas.md)
 - [Uso de IA](docs/uso-de-ia.md)
+# C4_Aisoft-
