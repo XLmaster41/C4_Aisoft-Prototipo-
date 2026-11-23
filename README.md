@@ -13,9 +13,8 @@ Dispositivo eletrônico embarcado, baseado em **Arduino UNO**, para gerenciar te
 | Victor Jesus Gama da Silva | Discente |
 
 - **Docente:** Maricy Caregnato
-- **Instituição:** [INSERIR NOME DA INSTITUIÇÃO] — Cáceres/MT, 2026
-- **Repositório:** [INSERIR URL REAL DO GITHUB]
-- **Simulação (Tinkercad):** [INSERIR LINK REAL DO CIRCUITO]
+- **Instituição:** Universidade do Estado de Mato Grosso (UNEMAT), Campus “Jane Vanini” — Cáceres/MT
+- **Simulação (Tinkercad):** https://www.tinkercad.com/things/f96OpHrRg1R-projeto-c410
 
 ## Objetivo
 
