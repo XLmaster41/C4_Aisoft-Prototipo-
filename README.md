@@ -10,7 +10,7 @@ Dispositivo eletrônico embarcado, baseado em **Arduino UNO**, para gerenciar te
 | Integrante | Papel |
 |---|---|
 | Gabriel Oliveira Neves | Discente |
-| Victor Jesus Gama da Silva | Discente |
+| Vitor Jesus Gama da Silva | Discente |
 
 - **Docente:** Maricy Caregnato
 - **Instituição:** Universidade do Estado de Mato Grosso (UNEMAT), Campus “Jane Vanini” — Cáceres/MT
