@@ -4,7 +4,7 @@
 
 | Campo | Informação |
 |---|---|
-| Ferramenta | Uso do  chat GPT para organização e escrita da documrntação e orientações no concerto do código|
+| Ferramenta | Uso do  chat GPT para organização e escrita da documentação e orientações no concerto do código|
 | Versão/plano | Uso da versão Gratuita |
 | Verificação | A verificação foi feita usando as analises obtidas artravez ta observação dos testes |
 | Alterações humanas | As correções alem de revições foram feitas em conjunto usando totalmente a parte cognitiva humana para pensar na melhor escolha de acondo com os objetos escolhidos|
